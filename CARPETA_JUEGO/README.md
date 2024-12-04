@@ -18,9 +18,13 @@ Video juego hecho en Python (Pygame) con el objetivo de familiarizarme con el le
   ### Ranking:
   ![4](https://user-images.githubusercontent.com/106789613/207981997-d3e47236-c534-4328-bd7a-64fb1496a633.png)
 
-## Video:
+### Demo del Proyecto
+Este es un video demostrativo del proyecto:
 
-https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4
+<video src="https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4" controls="controls" style="max-width: 100%;">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
 
 # Preparación del entorno:
 
