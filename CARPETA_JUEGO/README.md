@@ -21,7 +21,7 @@ Video juego hecho en Python (Pygame) con el objetivo de familiarizarme con el le
 ### Demo del Proyecto
 Este es un video demostrativo del proyecto:
 
-<video src="https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/FacundoM22/Juego_2024_UTN/issues/1#issue-2716331176" controls="controls" style="max-width: 100%;">
   Tu navegador no soporta la etiqueta de video.
 </video>
 
