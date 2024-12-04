@@ -1,0 +1,31 @@
+{
+    "nivel1": {
+        "enemy": [
+            {
+                "x": 100, "y": 50,
+                "speed_walk": 3, "speed_run": 6,
+                "gravity": 8, "jump_power": 20,
+                "frame_rate_ms": 100, "move_rate_ms": 50,
+                "jump_height": 120, "healt": 100
+            },
+            {
+                "x": 600, "y": 400,
+                "speed_walk": 2, "speed_run": 5,
+                "gravity": 9, "jump_power": 25,
+                "frame_rate_ms": 120, "move_rate_ms": 60,
+                "jump_height": 100, "healt": 80
+            }
+        ]
+    },
+    "nivel2": {
+        "enemy": [
+            {
+                "x": 150, "y": 100,
+                "speed_walk": 4, "speed_run": 7,
+                "gravity": 8, "jump_power": 22,
+                "frame_rate_ms": 110, "move_rate_ms": 55,
+                "jump_height": 110, "healt": 90
+            }
+        ]
+    }
+}
